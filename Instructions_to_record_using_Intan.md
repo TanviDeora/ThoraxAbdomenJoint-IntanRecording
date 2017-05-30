@@ -36,7 +36,7 @@
 - Hit "Run: to see input from amplifier, "stop" to stop scanning input
 
 
-- To hear the spike --> Select Audio - by going to DAC/Audio - and select DAC 1 --> Select the channel you want to hear on the oscilloscope and hit "select DAC to selected". Adjust the electrode to DAC gain to until you hear something. 
+- To hear the spike --> Select Audio - by going to DAC/Audio - and select DAC 1 --> Select the channel you want to hear on the oscilloscope and hit "select DAC to selected". Adjust the electrode to DAC gain AND audio noise slicer to until you hear something. 
 
 ## V. To Record:
 
